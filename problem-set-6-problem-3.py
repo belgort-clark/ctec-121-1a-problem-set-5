@@ -1,6 +1,6 @@
 # CTEC 121
 # YOUR NAME
-# Module 4 / Problem Set 4
+# Module 6 / Problem Set 4
 # Problem 3 (25 POINTS)
 
 """
