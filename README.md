@@ -1,8 +1,8 @@
-# CTEC 121 Problem Set 4
+# CTEC 121 Problem Set 5
 
-## Assignent Overview
+## Assignment Overview
 
-This exercise will have you clone this repository (repo) down from GitHub to Visual Studio Code on your computer. Once you have cloned the repo, you must follow the instrucitons below.
+This exercise will have you clone this repository (repo) down from GitHub to Visual Studio Code on your computer. Once you have cloned the repo, you must follow the instructions below.
 
 ## Assignment Repository Contents
 
@@ -12,10 +12,10 @@ This repository contains the following files:
 - **README.md** - This file that you are currently reading. It's a file written in markup language known as Markdown.
 - **LEGOS.png** - This file shows what the LEGOs should look like for Problem 3
 - **faces.pdf** - This file contains sample faces drawn using the graphics library and is for Problem 3. Visual Studio Code cannot be used to view this file.
-- **problem-set-4-problem-1.py** - This is the file that you will be coding your work problem 1.
-- **problem-set-4-problem-2.py** - This is the file that you will be coding your work for problem 2.
-- **problem-set-4-problem-3.py** - This is the file that you will be coding your work for problem 3.
-- **problem-set-4-problem-4.py** - This is the file that you will be coding your work for problem 4.
+- **problem-set-5-problem-1.py** - This is the file that you will be coding your work problem 1.
+- **problem-set-5-problem-2.py** - This is the file that you will be coding your work for problem 2.
+- **problem-set-5-problem-3.py** - This is the file that you will be coding your work for problem 3.
+- **problem-set-5-problem-4.py** - This is the file that you will be coding your work for problem 4.
 - **.gitignore** - This file tells git to ignore the \***\*pycache\*\*** files that get created by the graphics library. It's a hidden file. Please do not do anything to this file!
 
 ## Steps to follow
